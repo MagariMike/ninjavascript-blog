@@ -12,6 +12,8 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "grey-matter": "^0.0.0",
+    "latest": "^0.2.0",
+    "n": "^9.2.0",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
